@@ -80,23 +80,23 @@ body {
 
 .search-bar {
     flex: 1;
-    padding: 15px;
+    padding: 8px;
     border: none;
-    /*border-radius: 4px 0 0 4px;*/
+    border-radius: 4px 0 0 4px;
     outline: none;
     background-color: #333;
     color: var(--blanco);
-    border-radius: 15px;
+    
 }
 
 .search-button {
     background-color: var(--color-sidebar);
     border: none;
-    padding: 15px;
+    padding: 8px;
     margin-left: 10px;
     cursor: pointer;
     color: var(--blanco);
-    border-radius: 15px;
+    
 }
 
 .top-menu-right button {
